@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif)](https://rishavchanda.io)
+[![MasterHead](http://lamcdn.net/hopesandfears.com/post-cover/dLYfYLBGDmmQ3DSWcfNk8Q-default.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vandit Gabani</h1>
 <h3 align="center">A Competitive Coder and Cyber Security enthusiast</h3>
