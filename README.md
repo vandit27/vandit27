@@ -1,7 +1,7 @@
 [![MasterHead](https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vandit Gabani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Competitive Coder and Cyber Security enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandit27&label=Profile%20views&color=0e75b6&style=flat" alt="vandit27" /> </p>
